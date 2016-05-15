@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: O mně
-  url: /about-me/
+  - title: "O mně"
+    url: /about-me/
 
-  - title: Články
-  url: /posts/
+  - title: "Články"
+    url: /posts/
