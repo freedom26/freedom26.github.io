@@ -5,6 +5,7 @@ title: O mně
 tagline: Drby a zvěsti
 comments: false
 description: "O mně, o interakčním designérovi. Brno!"
+author_profile: true
 ---
 
 ## Short bio
