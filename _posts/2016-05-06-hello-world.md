@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Hello world!
+category: Bordel
+share: false
 ---
 
 ## My first post.
