@@ -34,3 +34,29 @@ en-UK:
 
 # Another locale
 # --------------
+
+cs-CZ:
+  page                  : "Stránka"
+  pagination_previous   : "Předchozí"
+  pagination_next       : "Další"
+  breadcrumb_home_label : "Domů"
+  breadcrumb_separator  : "/"
+  toc_label             : "Na této stránce"
+  ext_link_label        : "Direct Link"
+  less_than             : "Méně než"
+  minute_read           : "minuta čtení"
+  minutes_read          : "minut čtení"
+  share_on_label        : "Sdílej na"
+  meta_label            :
+  tags_label            : "Tagy:"
+  categories_label      : "Kategorie:"
+  date_label            : "Aktualizováno:"
+  comments_label        : "Přidej komentář"
+  more_label            : "Číst dále"
+  related_label         : "Další super věci"
+  follow_label          : "Sledujte:"
+  feed_label            : "Feed"
+  powered_by            : "Powered by"
+  website_label         : "Webová stránka"
+  email_label           : "E-mail"
+  recent_posts          : "Aktuální příspěvky"
