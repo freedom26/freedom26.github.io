@@ -11,7 +11,7 @@ title                    : "Filip Svoboda"
 title_separator          : "-"
 name                     : "Filip Svoboda"
 description              : "Portfolio a osobní blog"
-url                      : "http://filipsvoboda.net"
+url                      : "http://www.filipsvoboda.net"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
