@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Hello world! This is a new, much longer title to test some OG shennanigans. 78
+title: This is a title to test some TC shennanigans. 48
 category: Bordel
 share: false
-description: This is a description I've made for this post. It is a lengthy one and will probably (and hopefully) break some tests I am about to do. Sadly, this much text is still not enough of what I need. 197
+description: It is a lengthy one and will probably (and hopefully) break some tests I am about to do. Sadly, this much text is still enough of what I need. 146
 ---
 
 ## My first post.
