@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Hello world!
+title: Hello world and welcome!
 category: Bordel
 share: false
 ---
