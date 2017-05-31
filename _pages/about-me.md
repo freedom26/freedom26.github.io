@@ -14,7 +14,7 @@ author_profile: true
 * Bydliště: Brno
 
 ## Práce
-* Pracuji jako interakční designér v [ContentKing](http://www.becontentking.com/).
+* Pracuji jako interakční designér v [ContentKing](http://www.contentkingapp.com/).
 
 ## Co umím
 * Spustu věcí!
