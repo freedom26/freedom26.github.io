@@ -1,5 +1,0 @@
-User-agent: Googlebot
-Disallow: /*?q=*
-Disallow: /*?filteritem=*
-Disallow: /*?price=*
-Disallow: /*?vert=*
