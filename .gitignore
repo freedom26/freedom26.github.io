@@ -9,4 +9,3 @@ codekit-config.json
 node_modules
 npm-debug.log*
 _scss
-*.css.map
